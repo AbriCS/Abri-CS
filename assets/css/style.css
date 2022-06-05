@@ -1,0 +1,38 @@
+.headImg{
+    margin-top:3vh;
+    position: relative;
+    text-align: center;
+}
+#heroIMg{
+ height: 40rem;
+ width:100vw;
+ object-fit: cover;
+}
+#name{
+    position:absolute;
+    top:15vh;
+    left:6vw;
+    color:whitesmoke;
+}
+
+#jobTitle{
+    position:absolute;
+    top:25vh;
+    left:1vw;
+    color:whitesmoke;
+}
+.navbar-brand{
+    width:100px;
+    margin-top: 2vh;
+    margin-left: 2vw;
+}
+.logo{
+    border-radius: 50%;
+}
+.navbar-menu{
+    display: flex;
+    justify-content: end;
+}
+.navbar-end{
+  margin-right: 2vw; 
+}
