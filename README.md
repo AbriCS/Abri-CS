@@ -12,6 +12,7 @@ An Agile, Full-Stack Software Engineer with extensive experience in commercial, 
 
 ```
 
+
 💬 Recent winner of a Woman in Tech Scholarship.
 
 ```
@@ -22,12 +23,11 @@ An Agile, Full-Stack Software Engineer with extensive experience in commercial, 
 
 👯‍♀️  Scrum Master on two recent collaborative project. 
 
-🤔  Looking for Project Manger/Product Owner/Site reliability role in a Tech   
-    enthused organisation, where I am valued and can add value.
+🤔  Looking for Project Manger/Product Owner/Site reliability role in a Tech enthused organisation, where I am valued and can add value.
 
 🧠  Tech Stack includes Github, VScode, HTML, CSS, Javascript, Node, Docker, mySql and React.
 
-[Technical Stack Training]()
+[Technical Stack Training](./assets/images/TechStack-todate.png)
 
 
 ## Currently Working On.
