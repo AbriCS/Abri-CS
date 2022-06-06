@@ -10,19 +10,24 @@
 ## About Me
 An Agile, Full-Stack Software Engineer with extensive experience in commercial, healthcare and education industries.
 
-👩‍💻  Currently developing my expertise in AWS.
-
-🧠  Working with Github, VScode, HTML, CSS, Javascript, Node, Docker, mySql and React.
-
-👯‍♀️  Scrum Master on two recent collaborative project. 
-
-🤔  Still looking for the right role.
-
 ```
 
 💬 Recent winner of a Woman in Tech Scholarship.
 
 ```
+
+
+👩‍💻  Currently developing my expertise in AWS and working on my React based Website.
+    Loving it!!
+
+👯‍♀️  Scrum Master on two recent collaborative project. 
+
+🤔  Looking for Project Manger/Product Owner/Site reliability role in a Tech   
+    enthused organisation, where I am valued and can add value.
+
+🧠  Tech Stack includes Github, VScode, HTML, CSS, Javascript, Node, Docker, mySql and React.
+
+[Technical Stack Training]()
 
 
 ## Currently Working On.
